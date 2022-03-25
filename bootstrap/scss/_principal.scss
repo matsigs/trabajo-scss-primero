@@ -1,0 +1,39 @@
+/*/ main index /*/
+
+.logoindex{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-radius: 70%;};
+
+
+    
+    .breve{text-decoration: black;
+        text-transform: uppercase;
+        font-weight: bold;}
+    
+    .video{margin-top: 3%;}
+    
+    /*/fotos y textos main index /*/
+    .container{max-width: 100%;max-height: 100%;}
+    
+    
+    .container p{text-decoration: solid;
+    font-size: medium;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;}
+    
+    .rowuno{display:flex ;;}
+    .row{max-width: 100%;
+    height: 100%;}
+    
+    .rowuno img{border-radius: 50%;}
+    .rowuno p{text-align: center;}
+    .imgdosp{padding: 0%;margin-bottom: 0%;}
+    
+    /*/ footer index/*/
+    .fcarrito{margin-left: 2%;}
+    
+    
+    
+    .gmap_canvas{margin: 0%;float:right;}
