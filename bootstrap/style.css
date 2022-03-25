@@ -115,7 +115,7 @@ text-transform: uppercase;}
     .adicionales{animation-name: adicionales;animation-duration: 5s;animation-iteration-count: infinite;}
 
     @keyframes adicionales {0%{background-color: red;}
- 50%{background-color: aqua;}
- 100%{background-color: greenyellow;}}
+ 50%{background-color: green;}
+ 100%{background-color: #adff2f;}}
     
     
