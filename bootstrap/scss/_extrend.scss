@@ -1,0 +1,9 @@
+@mixin cosas ($refuno, $refdos) {text-align: center;
+    padding-bottom:20%;
+    padding-top: 10%;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-decoration:underline;}
+
+    h1 {@include cosas (uppercase, none)}
